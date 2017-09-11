@@ -1,4 +1,4 @@
-# MT5-SMA-Crossover-Bot
+# MT5-MA-Crossover-Bot
 
 This is the code for a very simple Expert Advisor(bot) for
 the algorithmic trading plataform MetaTrader 5.
