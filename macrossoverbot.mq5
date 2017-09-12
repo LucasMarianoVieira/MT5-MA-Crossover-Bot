@@ -1,4 +1,4 @@
-#property copyright "TheSaberLion"
+#property copyright "Lucas Mariano Vieira"
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 
